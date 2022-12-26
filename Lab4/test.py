@@ -1,4 +1,4 @@
-from figure import *
+from Figures import *
 
 circle_area()
 circle_area(7)
